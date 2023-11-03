@@ -14,6 +14,8 @@ dados = [nome, idade, nascimento, cidadania]
 familia = ["Benito","Nilsa", "Felipe"]
 familia_alter = [70, 50, 34]
 irmaos = ["Efren", "Diego"]
+
+print(nome)
 print("Nome:" + nome )
 print("Idade " + "= " + idade + " anos")
 print("Quanto tempo morou no Brasil?")
