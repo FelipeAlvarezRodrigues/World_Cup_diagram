@@ -8,14 +8,13 @@ chegou_na_Alemanha = 2017
 se_casou = 2021
 irmaos = 3 
 primos = 6
-mae = 1
-Pai = 1
-dados = [nome, idade, nascimento, cidadania]
+mae = "Nilsa"
+Pai = "Benito"
+
+dados = [nome, idade, nascimento, cidadania, saiu_do_Brasil, chegou_na_Alemanha, se_casou, irmaos,mae, Pai]
 familia = ["Benito","Nilsa", "Felipe"]
 familia_alter = [70, 50, 34]
-irmaos = ["Efren", "Diego"]
 
-print(nome)
 print("Nome:" + nome )
 print("Idade " + "= " + idade + " anos")
 print("Quanto tempo morou no Brasil?")
