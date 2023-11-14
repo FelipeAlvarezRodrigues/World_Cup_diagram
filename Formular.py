@@ -1,4 +1,5 @@
 
+name = []
 daten_list = [34, 1.73, 64, 1989, 2016, 2017, 3,]   #idade, altura, peso, nascimento, saiu do brasil, chegou na alemanha, irmaos
 nome = "Felipe"
 idade = "34"
