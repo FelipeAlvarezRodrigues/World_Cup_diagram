@@ -17,8 +17,8 @@ meisterschaft = [1] + meisterschaft
 plt.title(title)
 plt.xlabel(xlab)
 plt.ylabel(ylab)
-plt.grid(True)
+plt.grid(False)
 
 
-plt.bar(länder, meisterschaft)
+plt.bar(länder, meisterschaft, color = "red" )
 plt.show()
