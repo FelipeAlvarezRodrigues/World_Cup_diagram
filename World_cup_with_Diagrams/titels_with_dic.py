@@ -15,9 +15,9 @@ wm_data["England"] = add_country
 countries = list(wm_data.keys())
 titels = [country_data["titels"] for country_data in wm_data.values()]               # cria uma lista "title" onde cada elemento é o valor associado à chave "titles"
                                                                     
-xlab = "Land"
+xlab = "Country"
 ylab = "Titels"
-title = "Fußball Weltmeisterschaft"
+title = "World Cup"
 
 plt.title(title)
 plt.xlabel(xlab)
