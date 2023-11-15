@@ -8,7 +8,7 @@ titles = titles + [1]
 
 
 xlab = "Country"
-ylab = "Titel"
+ylab = "Titels"
 title = "World Cup"
 
 #plt.plot(länder, meisterschaft)   # nicht gut dafür  ////   #plt.scatter(länder, meisterschaft)   # auch nicht optimal
