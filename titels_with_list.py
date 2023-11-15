@@ -7,7 +7,7 @@ countries = countries+ ["England"]
 titles = titles + [1] 
 
 
-xlab = "Land"
+xlab = "Country"
 ylab = "Titel"
 title = "World Cup"
 
